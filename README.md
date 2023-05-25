@@ -2,6 +2,6 @@
 Telegram Bot support for Math
 # Setup
 For setup:
-install requirements.txt
+install requirements.txt\n
 Do: cat env_sample > .env
 run bot.py
